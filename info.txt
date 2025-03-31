@@ -1,0 +1,6 @@
+flutter --version
+flutter doctor
+
+
+flutter create simon_game_flutter
+flutter run
