@@ -1,6 +1,28 @@
 flutter --version
 flutter doctor
 
-
 flutter create simon_game_flutter
+
 flutter run
+
+# Android (APK or AAB):
+flutter build apk
+
+# OR (for Play Store):
+flutter build appbundle
+
+# iOS:
+# Requires macOS + Xcode installed.
+flutter build ios
+
+# Web:
+flutter build web
+
+# Windows:
+flutter build windows
+
+# macOS:
+flutter build macos
+
+# Linux:
+flutter build linux
